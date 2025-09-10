@@ -4,6 +4,7 @@ inurl:/legal/security intext:monetary
 Responsible disclosure policy bug bounty
 inurl:responsible-disclosure-policy
 inurl:"responsible disclosure" site:*
+"We value security researchers" OR "We appreciate security reports" AND (reward OR bounty)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
