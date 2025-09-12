@@ -1,5 +1,6 @@
 inurl:/legal/security intext:monetary
 "If you believe you've found a security vulnerability"
+inurl:'vulnerability-disclosure-policy' reward
 ("bug bounty" OR "security vulnerability disclosure") inurl:security -site:hackerone.com -site:bugcrowd.com -site:intigriti.com
 Responsible disclosure policy bug bounty
 inurl:responsible-disclosure-policy
